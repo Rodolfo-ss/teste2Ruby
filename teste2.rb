@@ -106,8 +106,10 @@ vantagens = 'O desenvolvimento de aplicativo se torna rapido, facil para varios 
 desvantagens = 'É dificil entender a arquitetura MVC, deve ter regras rigidas nos metodos, falta de distribuicao o controlador acaba fazendo o trabalho todo.'
 
 
+# Questao 5 - Usando Ruby on Rails, cite uma forma de criar uma rota para um metodo find_user dentro do controller.
 
 
+bundle exec rspec/spec/controller/find_user
 
 
 
